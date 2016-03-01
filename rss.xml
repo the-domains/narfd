@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Narfd]]></title>
+        <description><![CDATA[Narfd]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 14:29:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Baby Bok Choi]]></title>
+            <description><![CDATA[<article><h1>Baby Bok Choi</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/445fd64c-11c0-4161-b05a-5ec1eda0be4d.png"></article>]]></description>
+            <link>undefinedbaby-bok-choi/index.html</link>
+            <guid isPermaLink="false">9ae5d140-6bac-4dd1-a591-cc9b54be8c0b</guid>
+            <pubDate>Tue, 01 Mar 2016 14:27:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
