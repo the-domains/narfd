@@ -1,7 +1,18 @@
-layout_spectrum: 0.1876282
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 1
 color:
   saturation: 0.4735368
-  lightness: 0.3589663
   brandStrength: 0.442789
   rhythmicContrast: 0.9915923
   brandColors:
@@ -10,5 +21,6 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-typography_spectrum: 1
+  lightness: 0.3589663
+layout_spectrum: 0.1820623
 name: Narfd
